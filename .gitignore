@@ -1,0 +1,14 @@
+bin
+obj
+.vs
+PDFNetC64
+*.user
+*.suo
+.vs
+src/Drawboard.IdentityServer/wwwroot/js/devApp
+.idea/
+.ionide/
+.DS_Store
+secrets.json
+appSettings.Developer.json
+*.orig
